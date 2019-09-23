@@ -1,3 +1,9 @@
-﻿  OpenglTestFuck.cpp
-D:\Github\openglLearn\OpenglTestFuck\Shader.h(4,10): warning C4067:  预处理器指令后有意外标记 - 应输入换行符
-  OpenglTestFuck.vcxproj -> D:\Github\openglLearn\x64\Debug\OpenglTestFuck.exe
+﻿  glad.c
+  OpenglTestFuck.cpp
+D:\github\openglLearn\OpenglTestFuck\Shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Shader.cpp
+D:\github\openglLearn\OpenglTestFuck\Shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  stb_image.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  OpenglTestFuck.vcxproj -> D:\github\openglLearn\x64\Debug\OpenglTestFuck.exe
