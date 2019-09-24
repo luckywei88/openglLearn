@@ -1,3 +1,7 @@
 .vs/
 x64/
 OpenglTestFuck/x64/
+OpenglTestFuck/OpenglTestFuck.vcxproj
+OpenglTestFuck/OpenglTestFuck.vcxproj.filters
+OpenglTestFuck/OpenglTestFuck.vcxproj.user
+*.sln
